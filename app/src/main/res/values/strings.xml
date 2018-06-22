@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Userprofile</string>
+    <string name="name">Name</string>
+    <string name="name1">Thirumalai_devi_ramya</string>
+    <string name="birthday">01/04/1997</string>
+    <string name="school">A.K.T_academy_matric_hr_sec_school</string>
+    <string name="Github">https://github.com/thirulak</string>
+    <string name="Linkedin">https://www.linkedin.com/in/thirumalaidevi-ramya-988040103/</string>
+    <string name="Blog">https://medium.com/@thiru141997/learning-android-in-udacity-3757372900ea</string>
+</resources>
